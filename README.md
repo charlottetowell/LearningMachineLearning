@@ -1,5 +1,5 @@
 # LearningMachineLearning
-My person progress-tracker as I develop my skills in machine learning with python!
+My personal progress-tracker as I develop my skills in machine learning with python!
 
 **Project Goals & Ideas:**
 - [ ] sentiment analysis
